@@ -48,6 +48,5 @@ cat > /etc/rc.local <EOF
 
 exit 0
 EOF
-rm -rf /root/loadbalance.sh
 echo "OK"
 exit
